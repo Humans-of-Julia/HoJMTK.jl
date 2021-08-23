@@ -1,6 +1,9 @@
 module Electrical
 using HoJMTK
 
+@parameters t
+const D = Differential(t)
+
 include("core.jl")
 include("sources.jl")
 include("components.jl")
