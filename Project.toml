@@ -1,0 +1,9 @@
+name = "HoJMTK"
+uuid = "d48f639a-7163-43b5-9c58-f20261536125"
+authors = []
+version = "0.0.1"
+
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
